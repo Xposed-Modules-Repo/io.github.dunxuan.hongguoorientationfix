@@ -56,7 +56,7 @@ adb logcat -s HongguoFlip
 ## 构建与源码
 
 源码仓库（基于 [libxposed/example](https://github.com/libxposed/example) 模板）：
-https://github.com/dunxuan/hongguo-orientation-fix
+https://github.com/dunxuan/io.github.dunxuan.hongguoorientationfix
 
 Release tag 格式：`versionCode-versionName`（当前 `1-1.0.0`）。
 
