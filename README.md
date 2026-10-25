@@ -37,6 +37,8 @@ WindowManager: request=SCREEN_ORIENTATION_SENSOR_LANDSCAPE
 
 ## 使用
 
+> 模块**无界面**：没有启动 Activity、没有桌面图标，安装后仅在 LSPosed 模块列表中显示。
+
 1. 安装 APK，在 LSPosed 中启用「红果要翻转」（作用域默认已含 `com.phoenix.read`）
 2. 强行停止红果免费短剧（或重启手机）
 3. 进入短剧横屏全屏，左右转动设备即可翻转
